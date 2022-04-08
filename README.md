@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**Bruno Rosales ** 
+**Bruno Rosales** 
 
 Here are some ideas to get you started:
 
