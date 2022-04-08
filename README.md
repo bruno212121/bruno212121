@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**bruno212121/bruno212121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**Bruno Rosales ** 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on (studying)
+- 🌱 I’m currently learning **python, sql, html, css, javascript**
+- 📫 How to reach me: **brunonicorc@hotmail.com**
+- 😄 Pronouns: El Risas 
+
+
+</p>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno212121&layout=compact&langs_count=7&theme=chartreuse-light"/>
+</p>
