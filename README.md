@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on (studying)
+- 🔭 Fifth-year Computer Engineering student
 - 🌱 I’m currently learning **python, sql, html,javascript,Jupyter Notebook,bash**
 - 😄 Pronouns: El Risas 
 - - :e-mail: [Mail Personal](mailto:brunonicorc@gmail.com)
