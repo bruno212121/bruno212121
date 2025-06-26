@@ -30,7 +30,7 @@
 ### 👨‍🎓 About Me
 - 🔭 Fifth-year Computer Engineering student at Universidad de Mendoza
 - 🚀 Currently working on BI dashboards and full-stack projects
-- 😄 Pronouns: "El Risas" (because coding should be fun!)
+- 😄 Pronouns: "El Risas" 
 - 🌱 Always learning new technologies and best practices
 
 ---
