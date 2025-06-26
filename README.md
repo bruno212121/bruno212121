@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Bruno Rosales
 
-**Computer Engineering Student | Full-Stack Developer | Data Enthusiast**
+**Computer Engineering Student | Full-Stack Developer | Data Analyst**
 
 ---
 
