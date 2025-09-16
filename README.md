@@ -56,12 +56,6 @@
   _Power BI, DAX, ETL (Python/SQL)_  
   - Data cleaning & modeling; KPI cards, drilldowns, and role-based views
 
-- 🌐 **Obra Ya!** — SaaS MVP for connecting construction pros with clients  
-  _Next.js, APIs, Auth_
-
-> Más proyectos en mi perfil 👇
-
----
 
 ## 📊 GitHub Activity & Streak
 
